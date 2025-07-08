@@ -12,7 +12,7 @@ The Supermarket Mobile App is a modern, native Android application designed to s
 - Offline Functionality: The app is fully functional offline, relying on a local Room database. 
 
 ## Technologies Used 
-- This project demonstrates a modern approach to Android development, focusing on: 
+This project demonstrates a modern approach to Android development, focusing on: 
 - Programming Language: 100% Kotlin 
 - UI Toolkit: Jetpack Compose for a declarative and reactive UI. 
 - Architecture: MVVM (Model-View-ViewModel) 
@@ -38,7 +38,7 @@ The Supermarket Mobile App is a modern, native Android application designed to s
 - Λειτουργία εκτός Σύνδεσης (Offline): Η εφαρμογή είναι πλήρως λειτουργική offline, βασιζόμενη σε μια τοπική βάση δεδομένων Room. 
 
 ## Τεχνολογίες που Χρησιμοποιήθηκαν 
-- Το project επιδεικνύει μια μοντέρνα προσέγγιση στην ανάπτυξη Android, εστιάζοντας σε:
+Το project επιδεικνύει μια μοντέρνα προσέγγιση στην ανάπτυξη Android, εστιάζοντας σε:
 - Γλώσσα Προγραμματισμού: 100% Kotlin 
 - UI Toolkit: Jetpack Compose για ένα δηλωτικό και αντιδραστικό UI. 
 - Αρχιτεκτονική: MVVM (Model-View-ViewModel) 
